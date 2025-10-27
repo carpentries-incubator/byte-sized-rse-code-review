@@ -9,7 +9,7 @@ This is a Byte-Sized RSE lesson on code review, part of the [Byte-Sized RSE Seri
 - What practices and tools support effective collaboration?
 - Why should collaborative tools and workflows be adopted early in a project?
 
-### Learning objectives
+### Learning Objectives
 
 At the end of this lesson, learners should be able to:
 
