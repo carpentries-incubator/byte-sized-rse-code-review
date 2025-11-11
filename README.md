@@ -17,3 +17,7 @@ At the end of this lesson, learners should be able to:
 - Recognise common collaborative practices such as code review, pair programming, and version control.
 - Understand how early adoption of collaborative tools helps prepare for scaling up development.
 - Apply the practical collaborative strategy *code review* in a software project.
+
+### Slides
+
+[Slides](https://docs.google.com/presentation/d/1qNyDV3VDwv6Z3RHwfn5hL0pFxzK_DsWN3bPMjwV7Uoc/edit?usp=sharing) available under CC BY 4.0 licence.
