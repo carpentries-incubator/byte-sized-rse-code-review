@@ -73,7 +73,7 @@ The goal is to strike a practical balance: invest enough time to offer useful, a
 When reviewing code, focus on:
 
 - Code quality - is the code clear and readable? Do functions serve a single purpose? Is it well-structured and consistent with the rest of the project?
-- Best practices and conventions - is the project’s coding style followed? Are tests and documentation included and up to date?
+- Best practices and conventions - are tests and documentation included and up to date, is the project’s coding style followed overall?
 - Efficiency and minimalism - does the change duplicate existing functionality (found elsewhere in the code or in a third-party library)? Is it limited to what’s required by the issue or ticket?
 - Knowledge sharing: ask clarifying questions (do not assume you understand everything or know best) and offer respectful, specific feedback. This helps everyone learn and builds team trust.
 
