@@ -25,7 +25,24 @@ Let's now adopt a new role - that of the reviewer of someone else's pull request
 ## Write a Review of the PR
 
 To see a list of PR review requests for you, go to https://github.com/pulls/review-requested.
+
+::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Allow Learners to Check their PR Review Requests
+
+Make the URL https://github.com/pulls/review-requested available to the learners.
+
+:::::::::::::::::::::::::::::::::::::::::
+
 You should see a review request from another participant, so select this from the list.
+
+::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Checkpoint: Accessing Partner's Pull Request
+
+Who's been able to access their partner's pull request to review?
+
+:::::::::::::::::::::::::::::::::::::::::
 
 This will present an overview of the pull request (PR), including on separate tabs:
 
@@ -63,7 +80,15 @@ For example, perhaps we know there is a Zenodo record for the code that this art
 1. Add a comment, something like `We should also link to the Zenodo record for the code, at https://zenodo.org/record/250494#.Y2UUN-zP1R4`
 1. Then select `Start a review`
 
-Can add as many comments as we want at this review stage, to any line.
+::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Checkpoint: Adding a Review Comment
+
+Who's been able to add a review comment to their partner's pull request?
+
+:::::::::::::::::::::::::::::::::::::::::
+
+We can add as many comments as we want at this review stage, to any line.
 If this were a larger pull request, we would review all the other changes, and add comments as needed.
 
 Finally, as a reviewer of this pull request, we can complete our review:
@@ -82,7 +107,13 @@ For simplicity, let's just go with the first option for this exercise.
 Finally, select `Submit review`, and our role as reviewer on the pull request is complete!
 The originator of the PR can then take our review into account, and make changes in response to the review.
 
-QUESTION: Who's submitted a very brief code review? Yes/No
+::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Checkpoint: Submit Review
+
+Who's been able to submit their review?
+
+:::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: callout
 

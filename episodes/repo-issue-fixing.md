@@ -36,7 +36,13 @@ You'll notice a new page with no issues listed at present.
 1. Assign the `Documentation` label to the issue.
 1. Select `Create` to create the issue.
 
-QUESTION: who's been able to create a new issue on the repository? Yes/No
+::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Checkpoint: Creating Work for Ourselves
+
+Who's been able to create a new issue on the repository?
+
+:::::::::::::::::::::::::::::::::::::::::
 
 ## Fixing the Issue
 
@@ -48,6 +54,14 @@ But in the interests of time and simplicity, we'll just use GitHub's direct file
 1. Navigate to the `README` file in the file navigator
 1. Select the edit icon shaped like a pen/pencil on the top right
 1. In the file editor, fix the broken link by removing the bit that says "typo/"
+
+::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Checkpoint: Fix the Link
+
+Who's fixed the broken link in the file?
+
+:::::::::::::::::::::::::::::::::::::::::
 
 So we now need to commit the change.
 It's good practice when committing a change is to refer to the issue number in the commit message,
@@ -62,12 +76,29 @@ since this will allow others to review that pull request.
 
 1. Select the second option `Create a new branch for this commit and start a pull request`
 1. Enter a meaningful name for this new branch, e.g. `readme-broken-link-fix`
-1. Select `Propose changes`
 
+::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Checkpoint: Fill in Details to Propose Changes
+
+Who's been able to fill a commit message, select create new branch, and add a new branch name in the propose changes window that appears?
+
+:::::::::::::::::::::::::::::::::::::::::
+
+Finally, select `Propose changes`.
 This change is now submitted to this new branch.
 If you go to the main repository page and select `branches`, you'll see our new branch in the list.
 
-QUESTION: who's managed to commit their fix to a new branch? Yes/No
+::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Checkpoint: Commit the Fix to a New Branch
+
+Who's been able to commit the fix to a new branch?
+
+:::::::::::::::::::::::::::::::::::::::::
+
+So at this point, we've added a change to a new branch on our repository.
+We now need someone else to review that change for us.
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
