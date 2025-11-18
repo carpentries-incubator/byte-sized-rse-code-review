@@ -28,21 +28,17 @@ go to https://github.com/UNIVERSE-HPC/review-example.
 1. Ensure the repository is set to `Public`.
 1. Select `Create repository`.
 
-You should be presented with the new repository's main page.
-Next, we need to clone this repository onto our own machines,
-using the Bash shell.
-So firstly open a Bash shell (via Git Bash in Windows or Terminal on a Mac).
-Then, on the command line,
-navigate to where you'd like the example code to reside,
-and use Git to clone it.
-For example, to clone the repository in our home directory (replacing `github-account-name` with our own account),
-and change directory to the repository contents:
+::::::::::::::::::::::::::::::::::::::::: instructor
 
-```bash
-cd
-git clone https://github.com/github-account-name/review-example
-cd review-example
-```
+## Checkpoint: Create Repository from Template
+
+Who's been able to create their own version of the code repository from the template repository?
+
+:::::::::::::::::::::::::::::::::::::::::
+
+You should be presented with the new repository's main page.
+For simplicity, we'll be using the GitHub website interface to edit the repository's contents,
+so there's no need to clone it on your own machines.
 
 ## Examining the Code
 

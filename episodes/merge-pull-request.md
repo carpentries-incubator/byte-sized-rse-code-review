@@ -37,7 +37,13 @@ So now, our change has been integrated into our codebase!
 You'll notice that the branch you created earlier has been deleted by GitHub,
 since it is no longer needed.
 
-QUESTION: Who's read the other participants' review of their PR, and merged it? Yes/No
+::::::::::::::::::::::::::::::::::::::::: instructor
+
+## Checkpoint: Create Pull Request
+
+Who's read the other participants' review of their PR, and merged it?
+
+:::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
