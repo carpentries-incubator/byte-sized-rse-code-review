@@ -71,17 +71,17 @@ as well as any others, by selecting the `Pull request` tab.
 For the next stage, you'll be reviewing a pull request. Either:
 
 - If you are attending a workshop with other learners,
-the instructor will enable you to share your GitHub repository with another learner to review, and you'll also obtain another learner's repository in return
+the instructor will enable you to share your GitHub account username with another learner (so they can request your review on their PR), and you'll also obtain another learner's GitHub username in return (so you can request their review on your own PR)
 - If you are going through this material on your own,
-ask a colleague with a GitHub account to send you their GitHub account username to review your pull request instead.
+ask a colleague with a GitHub account to send you their GitHub account username so you can request they review your pull request instead.
 
 :::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::: instructor
 
-## Checkpoint: Exchange Repository 
+## Checkpoint: Exchange GitHub Usernames
 
-Who's been able to add their GitHub repository's URL to the shared document and obtain another in return?
+Who's been able to add their GitHub username to the shared document and obtain another in return?
 
 :::::::::::::::::::::::::::::::::::::::::
 
@@ -104,12 +104,11 @@ Who's been able to add their assigned partner as a collaborator to their own rep
 ## Accept Repository Invite
 
 Now, since we're also reviewing someone else's pull request,
-we need to check for the invite from another participant and accept it.
-Check the email account associated with your GitHub account,
-and you should find an email from GitHub about the invitation.
-Open the email and accept the invite,
-following the instructions.
-The email may not show immediately.
+we need to check for the invite from another participant and accept it:
+
+1. Check the email account associated with your GitHub account,
+and you should find an email from GitHub about the invitation. The email may not show immediately.
+1. Open the email and accept the invite, following the instructions.
 
 ::::::::::::::::::::::::::::::::::::::::: instructor
 
